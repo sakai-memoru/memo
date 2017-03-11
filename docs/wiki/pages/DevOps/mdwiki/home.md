@@ -4,8 +4,10 @@ MDWiki
 Overview
 ----------------------------
 
-Expose markdown files on GITHUB. 
+Expose markdown files on GITHUB.
 
+Can use docs directory.See below url.
+[host on docs](./host-github.md)
 
 Description
 ----------------------------
