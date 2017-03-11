@@ -9,6 +9,9 @@ Expose markdown files on GITHUB.
 Can use docs directory.See below url.
 [host on docs](./host-github.md)
 
+Click link for markdown.
+[markdown.md](./markdown.md)  : markdown.md
+
 Description
 ----------------------------
 
