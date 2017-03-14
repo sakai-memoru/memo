@@ -1,8 +1,10 @@
 # DevOps - mdwiki
+[DevOps](../index.md) > [mdwiki](index.md)
 
 ## Mdwiki
-[home.md](home.md) : home.md
-[host-github.md](host-github.md) : host-github.md
+[mdwiki.md](mdwiki.md)
+[host-pages-on-github.md](host-pages-on-github.md)
 
 ## Markdown and Haroopad
-[haroopad.md](haroopad.md) : haroopad.md
+[markdown.md](markdown.md)
+[haroopad.md](haroopad.md)

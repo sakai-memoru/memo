@@ -1,7 +1,9 @@
 # Tips
 
-## index
+[Home](../../index.md) > [Tips](index.md)
+
+## site map
 ### Powershell
-[tips > powershell-shell-variables.md](powershell-shell-variables.md)
+Tips > [powershell-shell-variables.md](powershell-shell-variables.md)
 
 // --- end of file --- //

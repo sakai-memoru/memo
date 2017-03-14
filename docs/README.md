@@ -1,16 +1,33 @@
-Memoru Wiki
+README
 ==============
+[Home](./wiki/index.md) > ../README.md
 
-Publish markdown files with mdwiki , and host on github site.
-https://sakai-memoru.github.io/memo/wiki/#!index.md
+## What this site is?  
+Publish markdown files with mdwiki , and host on github site.  
+https://sakai-memoru.github.io/memo/#!index.md
+
+## Table of Contents
+
+I'm going to note blow contents.
 
 * Get Started to publish Project site.
+  - wiki
+    + mdwiki
+    + markdown
+    + haroopad
+  - markdown extention
+    + Mermaid
+    + PlantUML
+    + API Blueprint
   - Git
+    + Atom
     + github
     + gitbucket
   - Redmine
     + Redmine and plugins
   - Jenkins
+  - JSDoc
+  - Swagger
 
 * middleware for node development.
   - node.js  
@@ -21,14 +38,14 @@ https://sakai-memoru.github.io/memo/wiki/#!index.md
   - message queuing
     + MQTT : mosquetto
     + AMQP : RabbitMQ
-    
+
 * Set the environment on local pc.
   - Atom
     + Atom plugins
   - git client tool
     + sourcetree
-    + posh-get and
-    +
+    + posh-get
+    + VS Code
   - package manager
     + npm
   - task runner

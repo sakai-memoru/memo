@@ -62,13 +62,13 @@ Usage at first step
     [diff]
         tool = WinMerge
     [difftool "WinMerge"]
-        path = c:/Program Files(x86)/WinMerge/WinMergeU.exe
-        cmd = \"c:/Program Files(x86)/WinMerge/WinMergeU.exe\" -f \"*.*\" -e -u -r \"$LOCAL\" \"$REMOTE\"
+        path = c:/Program Files (x86)/WinMerge/WinMergeU.exe
+        cmd = \"c:/Program Files (x86)/WinMerge/WinMergeU.exe\" -f \"*.*\" -e -u -r \"$LOCAL\" \"$REMOTE\"
     [merge]
         tool = WinMerge
     [mergetool "WinMerge"]
-        path = c:/Program Files(x86)/WinMerge/WinMergeU.exe
-        cmd = \"c:/Program Files(x86)/WinMerge/WinMergeU.exe\" -e -u \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+        path = c:/Program Files (x86)/WinMerge/WinMergeU.exe
+        cmd = \"c:/Program Files (x86)/WinMerge/WinMergeU.exe\" -e -u \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
     [alias]
         windiff = difftool -y -d -t WinMerge
         winmerge = mergetool -y -t WinMerge

@@ -1,6 +1,6 @@
 # powershell-shell-variables
 
-[tips > index.md](index.md)
+[Home](../../index.md) > [Tips](index.md)
 
 ## shell variables
 

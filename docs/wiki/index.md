@@ -1,22 +1,23 @@
-# memoru
+# Top page
 
 ## Tips
-[pages/tips/index.md](pages/tips/index.md)
+HOME > [tips](pages/tips/index.md)
 
 ## DevOps
 ### MDWiki
-[pages/DevOps/mdwiki/index.md](pages/DevOps/mdwiki/index.md)
+HOME > [DevOps](pages/devops/index.md) > [mdwiki](pages/DevOps/mdwiki/index.md)
 
 ### git
-[pages/DevOps/git/index.md](pages/DevOps/git/index.md)
+HOME > [DevOps](pages/devops/index.md) > [git](pages/DevOps/git/index.md)
 
 ### Redmine
-[pages/DevOps/redmine/index.md](pages/DevOps/redmine/index.md)
+HOME > [DevOps](pages/devops/index.md) > [redmine](pages/DevOps/redmine/index.md)
 
 ### jenkins
-[pages/DevOps/jenkins/index.md](pages/DevOps/jenkins/index.md)
+HOME > [DevOps](pages/devops/index.md) > [jenkins](pages/DevOps/jenkins/index.md)
 
-## Programming
+## npm-libraries
+HOME > [npm-lib](pages/npm-libraries/index.md) > ....
 
 
 // --- end of file --- //

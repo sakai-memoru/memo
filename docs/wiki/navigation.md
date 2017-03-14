@@ -1,9 +1,12 @@
-# memo
+# HOME
 
-[gimmick:theme](spacelab)
+[gimmick:theme](cosmo)
 
-[about](pages/about.md)
-[DevOps](pages/DevOps/index.md)
+[README](../README.md)
 [Tips](pages/tips/index.md)
+[DevOps](pages/DevOps/index.md)
+[Environment](pages/environment/index.md)
+[middleware](pages/middleware/index.md)
+[npm-libraries](pages/npm-libraries/index.md)
 
 [gimmick:themechooser](Choose theme)

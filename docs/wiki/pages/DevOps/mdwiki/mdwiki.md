@@ -1,16 +1,16 @@
 MDWiki
 ============================
+[DevOps](../index.md) > [mdwiki](index.md)
 
 Overview
 ----------------------------
-
 Expose markdown files on GITHUB.
 
 Can use docs directory.See below url.
-[host on docs](./host-github.md)
+[host-pages-on-github](./host-pages-on-github.md)
 
 Click link for markdown.
-[markdown.md](./markdown.md)  : markdown.md
+[markdown](./markdown.md)  : markdown.md
 
 Description
 ----------------------------

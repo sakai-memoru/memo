@@ -1,7 +1,7 @@
-HOSTING DIRECTLY ON GITHUB
+host-pages-on-github
 ====
+[DevOps](../index.md) > [mdwiki](index.md)
 
-file://C:\Users\sakai\OneDrive\ドキュメント\memo\docs\wiki\pages\DevOps\mdwiki\host-github.md
 
 Overview
 ----------

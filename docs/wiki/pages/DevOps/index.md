@@ -1,17 +1,18 @@
 # DevOps
+[Home](../../index.md) > [DevOps](index.md)
 
 ## site map
 
 ### wiki
-[mdwiki > index.md](mdwiki/index.md)
+[DevOps](index.md) > [mdwiki](mdwiki/index.md)
 
 ### git
-[git > index.md](git/index.md)
+[DevOps](index.md)  > [git](git/index.md)
 
 ### redmine
-[redmine > index.md](redmine/index.md)
+[DevOps](index.md) > [redmine](redmine/index.md)
 
 ### Jenkins
-[Jenkins > index.md](jenkins/index.md)
+[DevOps](index.md) > [jenkins](jenkins/index.md)
 
 // --- end of file --- //
