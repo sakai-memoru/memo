@@ -1,4 +1,4 @@
-MDWiki
+DevOps > MDWiki
 ============================
 [DevOps](../index.md) > [mdwiki](index.md)
 
@@ -91,6 +91,8 @@ For more comple menus , nesting submenu items as a list and using horizontal lin
   * [MDWiki](pages/devops/mdwiki/)
 
 [links](links.md)
+[gimmick:themechooser](Choose theme)
+[gimmick:theme](cosmo)
 ```
 
 ### Gimmicks
@@ -128,7 +130,7 @@ http://yuml.me/
 Adds comment to your website. You first need to sign up with disqus and use your disqus short name as the link target.
 
 ```
-[gimmick:Disqus](memorusakai)
+[gimmick:Disqus](disqus-account)
 ```
 
 [gimmick:Disqus](memorusakai)
