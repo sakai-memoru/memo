@@ -1,4 +1,4 @@
-host-pages-on-github
+MDWiki > hosted-pages-on-github
 ====
 [DevOps](../index.md) > [mdwiki](index.md)
 

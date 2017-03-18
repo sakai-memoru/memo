@@ -4,7 +4,7 @@ README
 
 ## What this site is?  
 Publish markdown files with mdwiki , and host on github site.  
-https://sakai-memoru.github.io/memo/#!index.md
+https://sakai-memoru.github.io/memo/docs/#!index.md
 
 ## Table of Contents
 
