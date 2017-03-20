@@ -126,7 +126,9 @@ The snippet scope in snippets.cson must also hava a period added to the start of
 |ctrl+shft+B |run script       |
 |F9          |run build (.atom-build.yml) |
 |ctrl+alt+t  |terminal         |
-|alt+shift+T |todo show        |
+|ctrl+alt+m  |run test runner  |
+|alt+shft+T  |todo show        |
+|ctrl+shft+H |git-plus         |
 
  - [ ] FIXME note using shortcuts
 

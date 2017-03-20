@@ -2,21 +2,22 @@ DevOps > MDWiki
 ============================
 [DevOps](../index.md) > [mdwiki](index.md)
 
-Overview
-----------------------------
+## Overview
 Expose markdown files on GITHUB.
 
-Can use docs directory.See below url.
-[hosted-pages-on-github](./hosted-pages-on-github.md)
+Can use docs directory.See below url.  
+[mdwiki](index.md) > [hosted-pages-on-github](./hosted-pages-on-github.md)
 
-Click link for markdown.
-[markdown](./markdown.md)  : markdown.md
+Click link for markdown.  
+[mdwiki](index.md) > [markdown](./markdown.md)
 
-Description
-----------------------------
+- [ ] TODO : Create JSDoc into docs folder.
+
+## Description
 
 MDWiki is a Wiki completely built in only HTML5/javascript and runs 100% on the client.  
 MDwiki can be hosted through GitHub.
+http://dynalon.github.io/mdwiki/#!index.md
 http://dynalon.github.io/mdwiki/#!tutorials/github.md
 
 * Step1
@@ -34,22 +35,20 @@ $ git push wiki gh-pages
 * Step3
   - Custmize sites
 
-Note
---------------------------------
+## Note
 It all begins by creating an initial file structure for any language that you would like to support. You will duplicate `ll_cc` folder and rename your copy to `wiki`.
 
 `ll_cc` is a starter template folder which you should't ever edit directory, since you may loose your changes when MDwiki gets updated later.
 
-Getting started
------
+## Getting started
 Suppose your first wiki is going to be in Japaniese, hence you must have a folder called `wiki`, as reviously described.
 
 1. Open `index.html` file.
 2. Find where it says "override `ll_cc` below with your default path "
 3. Change refresh meta tag from `url=ll_cc/` to `url=wiki/`. (trailing `/` is very imortant)
 
-MDWiki's more detail
------
+## MDWiki's more detail
+
 ### How does MDWiki Work?
 You just download the mdwiki.html available form the download page along with your markdown files on a webspace somewhere. You can pass any url (relative to the mdwiki.html file) to mdwiki after the hashbang `#!`.
 
@@ -116,6 +115,8 @@ http://dynalon.github.io/mdwiki/#!quickstart.md
 Preview:
 [gimmick:gist](5641564)
 
+- [ ] TODO update `gimmicks/gist.js` revision ,that will apply for alphanumeric gist id.
+
 * UML Diagrams via yUML.me
 http://yuml.me/
 
@@ -134,5 +135,7 @@ Adds comment to your website. You first need to sign up with disqus and use your
 ```
 
 [gimmick:Disqus](memorusakai)
+
+- [ ] FIXME implement `gimmicks/disqus.js` correctly.
 
 // --- end of file --- //

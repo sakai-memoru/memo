@@ -1,0 +1,35 @@
+﻿// javascript_kw3_functions キーワード定義ファイル
+// CASE=False
+
+Array
+Date
+eval
+function
+hasOwnProperty
+Infinity
+isFinite
+isNaN
+isPrototypeOf
+length
+Math
+name
+NaN
+Number
+Object
+onblur
+onclick
+onerror
+onfocus
+onkeydown
+onkeypress
+onkeyup
+onload
+onmousedown
+onmouseover
+onmouseup
+onsubmit
+prototype
+String
+toString
+undefined
+valueOf

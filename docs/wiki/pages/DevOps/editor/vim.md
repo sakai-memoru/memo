@@ -5,6 +5,8 @@
 KaoriYa VIM  
 https://www.kaoriya.net/software/vim/
 
+- [ ] TODO : Note vim operations , comment in/out, indent/deindent,...
+
 ## Description
 
 ## Installation
