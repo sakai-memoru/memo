@@ -17,4 +17,11 @@ http://localhost:8081/
   $ npm install http-server -g
   ```
 
+* .atom-build.yml
+Install build package on atom, execute build with F9 shortcut.
+```yml
+cmd : http-server
+```
+
+
 // --- end of file --- //

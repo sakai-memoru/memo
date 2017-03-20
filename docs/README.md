@@ -20,7 +20,7 @@ I'm going to note blow contents.
     + PlantUML
     + API Blueprint
   - Git
-    + Atom
+    + git
     + github
     + gitbucket
   - Redmine
@@ -28,6 +28,10 @@ I'm going to note blow contents.
   - Jenkins
   - JSDoc
   - Swagger
+  - Editor
+    + Atom
+    + Vim
+    + Sakura
 
 * middleware for node development.
   - node.js  
@@ -54,6 +58,7 @@ I'm going to note blow contents.
 * node.js library
   - seneca.js
   - node-red
+  - hubot
   - common library
     + lodash
     + string
@@ -65,8 +70,8 @@ I'm going to note blow contents.
   - Converter library
     + csv
     + json2csv
-    + cson
     + flat
+    + cson
   - Testing library
     + mocha
     + chai
