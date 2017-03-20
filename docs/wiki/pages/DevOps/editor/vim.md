@@ -2,7 +2,7 @@
 [DevOps](../index.md) > [Editor](index.md)
 
 ## Overview
-KaoriYa VIM
+KaoriYa VIM  
 https://www.kaoriya.net/software/vim/
 
 ## Description
@@ -11,7 +11,7 @@ https://www.kaoriya.net/software/vim/
 
 ## Usage
 
-### normal modern
+### normal mode
 
 #### operation
 
@@ -39,7 +39,8 @@ https://www.kaoriya.net/software/vim/
 |.        |repeat               |
 |u,ctrl+Z |undo                 |
 
-### jump
+
+#### jump
 |key  |operation            |
 |-----|---------------------|
 |hjkl |move cursor          |
@@ -50,8 +51,11 @@ https://www.kaoriya.net/software/vim/
 |[{   |move back block      |
 |gg   |jump to top          |
 |G    |jump to bottom       |
+|*    |jump to word above cursor |
+|/hoge|jump to search word  |
+|n/N  |jump next word       |
 
-### command
+#### command
 
 |key  |operation       |
 |-----|----------------|
@@ -59,10 +63,13 @@ https://www.kaoriya.net/software/vim/
 |:q   |quit            |
 |:e   |edit other file |
 
-### scroll
+#### scroll
 |key  |operation            |
 |-----|---------------------|
 |HML  |windows high/middle/low   |
 |ctrl+u/d |windows up/down       |
+
+### insert mode
+
 
 // --- end of file --- //
