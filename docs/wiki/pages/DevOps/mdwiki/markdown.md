@@ -1,49 +1,52 @@
-MDWiki > Markdown
-==========================
+# MDWiki > Markdown
 [DevOps](../index.md) > [mdwiki](index.md)
 
-Overview
---------------------------
+## Overview
 
-Description
---------------------------
+## Description
 
-Markdown writing
---------------------------
+## Markdown writing
 ### Section tag
-\# Header1
-\## Header2
-\### Header3
-
+```markdown
+# Header1
+## Header2
+### Header3
+```
 # Header1
 ## Header2
 ### Header3
 
 ### Style tag
-\**Bold**
-\*Emphasize*
-\++Underline++
-\~~Strikethrough~~
-\==Highlight==
-
+```markdown
 **Bold**
 *Emphasize*
 ++Underline++
 ~~Strikethrough~~
 ==Highlight==
+```
+
+**Bold**  
+*Emphasize*  
+++Underline++  
+~~Strikethrough~~  
+==Highlight==  
 
 ### List
-\- Desc list
-\1. Order list
-\- [ ] Task list
+```markdown
+- Desc list
+1. Order list
+- [ ] Task list
+```
 
 - Desc list
 1. Order list
 - [ ] Task list
 
 ### Link
-\![alt text](url) // image
-\[link text](url) // link
+```markdown
+![alt text](url) // image
+[link text](url) // link
+```
 
 ### Code
 code block
@@ -96,7 +99,10 @@ graph LR
     end
 ```
 
-Reference
---------------------------
+## Reference
+:heart: emoji  
+Mastering markdown  
+https://guides.github.com/features/mastering-markdown/
+
 
 // --- end of file --- //
