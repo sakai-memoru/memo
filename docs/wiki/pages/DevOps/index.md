@@ -6,6 +6,9 @@
 ### wiki
 [DevOps](index.md) > [mdwiki](mdwiki/index.md)
 
+### Editor
+[DevOps](index.md) > [editor](editor/index.md)
+
 ### git
 [DevOps](index.md)  > [git](git/index.md)
 

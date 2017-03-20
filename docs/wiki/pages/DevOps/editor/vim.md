@@ -48,7 +48,6 @@ https://www.kaoriya.net/software/vim/
 |bB   |move back word       |
 |]}   |move forward block   |
 |[{   |move back block      |
-|HML  |windows high/middle/low   |
 |gg   |jump to top          |
 |G    |jump to bottom       |
 
@@ -63,12 +62,6 @@ https://www.kaoriya.net/software/vim/
 ### scroll
 |key  |operation            |
 |-----|---------------------|
-|hjkl |move cursor          |
-|wW   |move forward word    |
-|eE   |move forward word    |
-|bB   |move back word       |
-|]}   |move forward block   |
-|[{   |move back block      |
 |HML  |windows high/middle/low   |
 |ctrl+u/d |windows up/down       |
 
