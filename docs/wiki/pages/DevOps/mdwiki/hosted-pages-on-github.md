@@ -1,6 +1,6 @@
-MDWiki > hosted-pages-on-github
+Wiki > hosted-pages-on-github
 ====
-[DevOps](../index.md) > [mdwiki](index.md)
+[DevOps](../index.md) > [wiki](index.md)
 
 
 Overview
@@ -42,7 +42,7 @@ docs/navigationmd (sample)
 4.Copy `MDWiki.html` files and rename into `index.html`.
   * Download and Copy MDWiki apps. MDWiki is a light-weight page-generate tool. MDWiki support to publish markdown files on web pages.
 
-  *MDWiki (latest version 0.6.2 on 2014/05)  
+  * MDWiki (latest version 0.6.2 on 2014/05)  
    http://dynalon.github.io/mdwiki/#!index.md
 
 note: Rename mdwiki.html to index.html and copy to docs directory.Then create index.md in docs directory.

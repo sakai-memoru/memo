@@ -1,15 +1,15 @@
-DevOps > MDWiki
-============================
-[DevOps](../index.md) > [mdwiki](index.md)
+# Wiki > mdWiki
+
+[DevOps](../index.md) > [wiki](index.md)
 
 ## Overview
 Expose markdown files on GITHUB.
 
 Can use docs directory.See below url.  
-[mdwiki](index.md) > [hosted-pages-on-github](./hosted-pages-on-github.md)
+[wiki](index.md) > [hosted-pages-on-github](./hosted-pages-on-github.md)
 
 Click link for markdown.  
-[mdwiki](index.md) > [markdown](./markdown.md)
+[wiki](index.md) > [markdown](./markdown.md)
 
 - [ ] TODO : Create JSDoc into docs folder.
 

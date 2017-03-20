@@ -15,6 +15,8 @@ C:\Users\%USERPROFILE%\AppData\Roaming\sakura
 * powershell
 * python
 
+
+
 1. 設定(O) > 共通設定(O) > 協調キーワード - セット追加
 2. インポート(I)
 3. 設定(O) > タイプ別設定一覧(L) > 設定変更
@@ -23,6 +25,8 @@ C:\Users\%USERPROFILE%\AppData\Roaming\sakura
 * javascript
 * coffeescript
 * markdown
+* powershell
+* python
 
 ### outline (standard)
 * markdown

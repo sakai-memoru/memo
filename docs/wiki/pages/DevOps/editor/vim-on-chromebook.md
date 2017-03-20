@@ -1,5 +1,5 @@
-# DevOps > Jenkins
-[DevOps](../index.md) > [Jenkins](index.md)
+# Editor > Vim-on-chromebook
+[DevOps](../index.md) > [Editor](index.md)
 
 - [ ] TODO : no-contents
 

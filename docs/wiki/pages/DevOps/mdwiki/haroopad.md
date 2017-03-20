@@ -1,6 +1,6 @@
-MDWiki > Haroopad
+Wiki > Haroopad
 ==========================
-[DevOps](../index.md) > [mdwiki](index.md)
+[DevOps](../index.md) > [wiki](index.md)
 
 Overview
 --------------------------

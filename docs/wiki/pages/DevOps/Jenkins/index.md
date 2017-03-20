@@ -1,6 +1,7 @@
 # DevOps - Jenkins
+[DevOps](../index.md) > [Jenkins](index.md)
 
 ## Jenkins
-[devops > jenkins > jenkins.md](jenkins.md)
+[Jenkins](jenkins.md)
 
 // --- end of file --- //

@@ -4,6 +4,7 @@
 ## Overview
 git operation
 
+- [ ] FIXME : What happen on using git ?
 
 ## Description
 ### git commit --amend

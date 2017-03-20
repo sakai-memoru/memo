@@ -1,7 +1,7 @@
-# DevOps - mdwiki
-[DevOps](../index.md) > [mdwiki](index.md)
+# DevOps - wiki
+[DevOps](../index.md) > [wiki](index.md)
 
-## MDWiki
+## Wiki
 * [mdwiki.md](mdwiki.md)  
 * [hosted-pages-on-github.md](hosted-pages-on-github.md)  
 

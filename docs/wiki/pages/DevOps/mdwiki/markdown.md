@@ -1,5 +1,5 @@
-# MDWiki > Markdown
-[DevOps](../index.md) > [mdwiki](index.md)
+# Wiki > Markdown
+[DevOps](../index.md) > [wiki](index.md)
 
 ## Overview
 
