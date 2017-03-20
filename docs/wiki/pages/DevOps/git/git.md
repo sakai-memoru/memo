@@ -1,17 +1,13 @@
-DevOps > Git.md
-====
+# Git > Git
+[DevOps](../index.md) > [git](index.md)
 
-[DevOps/git/index.md](index.md)
 
-Overview
------
+## Overview
 Git is a tool for tracking changes made to a set of files, known as a "version control system".You can use Git to track any kind of content at all.
 
-Description
------
+## Description
 
-Installation
------
+## Installation
 
 ### Donwload
 git for windows  
@@ -34,8 +30,7 @@ https://git-for-windows.github.io/
     > // git version 2.12.0.windows.1
     ```
 
-Usage at first step
--------
+## Usage at first step
 
 ### Set config
 * Configure initial setting.
@@ -148,8 +143,7 @@ Usage at first step
     $ git push origin master
   ```
 
-Supplementals
-----------------
+## Supplementals
 ### posh-git
 - posh-git is a Powershell module that integrates Git and Powershell by providing Git status summary infomation that can be displayed in the powershell prompt.
 
@@ -167,8 +161,7 @@ Supplementals
 
   3. On git repository directory , can use auto-complete git commands by using `tab` key
 
-Reference
-----------------
+## Reference
 私家版Git for Windowsのインストール手順  
 https://opcdiary.net/?page_id=27065
 

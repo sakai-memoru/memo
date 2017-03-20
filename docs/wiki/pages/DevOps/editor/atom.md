@@ -128,6 +128,6 @@ The snippet scope in snippets.cson must also hava a period added to the start of
 |ctrl+alt+t  |terminal         |
 |alt+shift+T |todo show        |
 
- FIXME [ ] note using shortcuts
+ - [ ] FIXME note using shortcuts
 
 // --- end of file --- //

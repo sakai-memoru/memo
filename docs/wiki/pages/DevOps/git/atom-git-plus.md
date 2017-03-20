@@ -1,9 +1,10 @@
-# DevOps > git > atom-git-plus
+# Git > atom-git-plus
 
-[DevOps/git/index.md](index.md)
+[DevOps](../index.md) > [git](index.md)
 
-Overview
------
+## Overview
 using atom package 'git-plus'.
 
- 
+## Reference
+
+// --- end of file --- //

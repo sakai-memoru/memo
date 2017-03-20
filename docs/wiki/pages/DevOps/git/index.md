@@ -7,7 +7,7 @@
 [atom-git-plus.md](atom-git-plus.md)
 
 ## sourcetree
-[sourcetree.md](sourcetree.md)
+[sourcetree.md](./sourcetree.md)
 
 ## gitbucket
 [gitbucket.md](gitbucket.md)

@@ -1,14 +1,11 @@
-# DevOps - git-operation
+# Git > git-operation
+[DevOps](../index.md) > [git](index.md)
 
-[DevOps/git/index.md](index.md)
-
-Overview
------
+## Overview
 git operation
 
 
-Description
----------------
+## Description
 ### git commit --amend
 
 ```bash
@@ -73,8 +70,7 @@ $ git reset HEAD
 $ git reset --mixed HEAD
 ```
 
-Add empty directory
-------
+## Add empty directory
 You can not add the directory that has no files to repository. create a file named .gitkeep in the structured directories.
 
 // --- end of file --- //
