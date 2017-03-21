@@ -46,9 +46,9 @@ http://keitetsu.blogspot.jp/2015/06/monokai-cc.html
 http://shdash.blog33.fc2.com/blog-entry-81.html
 
 * javascript
-[javascript.kwd](./sakura_conf/keywords/javascript.col)
+[javascript.col](./sakura_conf/keywords/javascript.col)
 * powershell
-[powershell.kwd](./sakura_conf/keywords/PowerShell.col)
+[powershell.col](./sakura_conf/keywords/PowerShell.col)
 
 ### outline (standard)
 
