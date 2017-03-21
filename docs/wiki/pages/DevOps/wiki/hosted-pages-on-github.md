@@ -7,7 +7,7 @@ Overview
 ----------
 You can publish on Github repository for your own web static sites.
 
-http://<username>.github.io/<repos>/
+http://username.github.io/repos/
 
 Description
 -----------
@@ -52,12 +52,12 @@ note: Rename mdwiki.html to index.html and copy to docs directory.Then create in
      ![sourcetree-github-push](./img/sourcetree-first-push.JPG)
 
   * After uploading.
-    ![](./img/github-uploaded.JPG)
+    ![github-uploaded](./img/github-uploaded.JPG)
 
 6. Set Github page on Setting page.
 
-  * Set Source target on master/docs folder.
-    ![](./img/github-setting.JPG)
+  * Set Source target on master/docs folder or master folder.
+    ![github-setting](./img/github-setting.JPG)
 
 
 > Github Pages is designed to host your personal, organization, or project pages from a GitHub repository.  
@@ -66,9 +66,9 @@ note: Rename mdwiki.html to index.html and copy to docs directory.Then create in
 
 7. Access to project page.
   url is below.  
-  https://sakai-memoru.github.io/home/  
+  https://sakai-memoru.github.io/home/docs/  
   It's redirect to  `/home/index.html#!index.md`
 
-    https://<username>.github.io/<repos>/
+    https://username.github.io/<repos>/
 
 // --- end of file --- //
