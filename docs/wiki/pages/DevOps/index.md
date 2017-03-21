@@ -4,7 +4,7 @@
 ## site map
 
 ### wiki
-[DevOps](index.md) > [mdwiki](mdwiki/index.md)
+[DevOps](index.md) > [wiki](wiki/index.md)
 
 ### Editor
 [DevOps](index.md) > [editor](editor/index.md)

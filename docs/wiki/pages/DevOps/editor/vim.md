@@ -2,6 +2,8 @@
 [DevOps](../index.md) > [Editor](index.md)
 
 ## Overview
+Vim ; a contraction of Vi IMproved, is a clone a done of vi text editor.
+
 KaoriYa VIM  
 https://www.kaoriya.net/software/vim/
 
@@ -13,8 +15,15 @@ https://www.kaoriya.net/software/vim/
 
 ## Usage
 
-### normal mode
+### Change mode
+|key      |operation            |
+|---------|---------------------|
+|esc      |normal mode          |
+|aiosc    |insert mode          |
+|v        |visual mode          |
+|:        |command mode         |
 
+### normal mode
 #### operation
 
 |key      |operation            |
@@ -41,6 +50,13 @@ https://www.kaoriya.net/software/vim/
 |.        |repeat               |
 |u,ctrl+Z |undo                 |
 
+#### motion
+|key  |operation            |
+|-----|---------------------|
+|w/b  |word                 |
+|fx   |search 'x'word       |
+|tx   |search until 'x'word |
+|1l   |n time hjkl          |
 
 #### jump
 |key  |operation            |
@@ -51,6 +67,7 @@ https://www.kaoriya.net/software/vim/
 |bB   |move back word       |
 |]}   |move forward block   |
 |[{   |move back block      |
+|%    |move to another bracket |
 |gg   |jump to top          |
 |G    |jump to bottom       |
 |*    |jump to word above cursor |
