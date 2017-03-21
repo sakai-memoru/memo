@@ -57,7 +57,7 @@ note: Rename mdwiki.html to index.html and copy to docs directory.Then create in
 6. Set Github page on Setting page.
 
   * Set Source target on master/docs folder or master folder.
-    ![github-setting](./img/github-setting.JPG)
+    ![github-setting](./img/github-setting.jpg)
 
 
 > Github Pages is designed to host your personal, organization, or project pages from a GitHub repository.  
@@ -66,9 +66,9 @@ note: Rename mdwiki.html to index.html and copy to docs directory.Then create in
 
 7. Access to project page.
   url is below.  
-  https://sakai-memoru.github.io/home/docs/  
+  https://sakai-memoru.github.io/home/  
   It's redirect to  `/home/index.html#!index.md`
 
-    https://username.github.io/<repos>/
+    https://username.github.io/repos/
 
 // --- end of file --- //
