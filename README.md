@@ -2,12 +2,12 @@ Memo
 ==============
 
 Publish markdown files with mdwiki , and host on github site.  
-https://sakai-memoru.github.io/memo/docs/
+https://sakai-memoru.github.io/memo/docs/index.html#!index.md
 
 If you review making site on local pc, change directory into docs directory and execute http-server.Then access url blow.
 
 * local access url  
-http://localhost:8081/
+http://localhost:8083/docs/index.html#!index.md
 
 ![http-server-execution](img/http-server-execution.jpg)
 
