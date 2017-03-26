@@ -38,7 +38,7 @@ https://www.kaoriya.net/software/vim/
 |D        |d$                   |
 |ia       |insert,add           |
 |IA       |insert first,add last|
-|s        |delete and insert    |
+|s        |delete and insert cf)x  |
 |yy       |yank line            |
 |dd       |delete line          |
 |cc       |delete line and insert  |
