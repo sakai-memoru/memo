@@ -61,6 +61,8 @@ http://shdash.blog33.fc2.com/blog-entry-81.html
 
 ### markdown outline parser
 
+### VBA
+http://seesaawiki.jp/w/yoynizi9691/d/SAKURA
 
 ## macro
 ### native2ascii

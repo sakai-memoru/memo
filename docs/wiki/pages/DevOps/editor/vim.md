@@ -38,7 +38,7 @@ https://www.kaoriya.net/software/vim/
 |D        |d$                   |
 |ia       |insert,add           |
 |IA       |insert first,add last|
-|s        |delete and insert cf)x  |
+|s        |delete and insert cf)x |
 |yy       |yank line            |
 |dd       |delete line          |
 |cc       |delete line and insert  |
@@ -63,7 +63,7 @@ https://www.kaoriya.net/software/vim/
 |-----|---------------------|
 |hjkl |move cursor          |
 |wW   |move forward word    |
-|eE   |move forward word    |
+|eE   |move forward word end |
 |bB   |move back word       |
 |]}   |move forward block   |
 |[{   |move back block      |
