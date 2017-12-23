@@ -12,7 +12,7 @@
 ### git
 [DevOps](index.md)  > [git](git/index.md)
 
-### git
+### GitBook
 [DevOps](index.md)  > [GitBook](GitBook/index.md)
 
 

@@ -9,6 +9,7 @@ HOME > [DevOps](pages/DevOps/index.md)
 [wiki](pages/DevOps/wiki/index.md)
 [editor](pages/DevOps/editor/index.md)
 [git](pages/DevOps/git/index.md)
+[GitBook](pages/DevOps/GitBook/index.md)
 [redmine](pages/DevOps/redmine/index.md)
 [jenkins](pages/DevOps/jenkins/index.md)
 
